@@ -1,0 +1,83 @@
+/* body{
+    text-align: center;
+    background-color: aqua;
+    overflow: hidden;
+}
+
+nav{
+    display: inline-block;
+    margin: 5px 20px 0 5px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.task{
+    margin-top: -50px;
+}
+
+.menu{
+    background-color: rgb(68, 39, 11);
+    color: white;
+    font-weight: 800px;
+    border: 1px solid coral;
+    border-radius: 5px;
+}
+
+.imag{
+    background-image: url(./imgs/Jellyfish.jpg);
+    width: 500px;
+    height: 300px;
+}
+
+.np{
+    background-image: url(./imgs/Desert.jpg);
+    width: 50px;
+    height: 500px;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-top: 95px;
+    margin-bottom: -150px;
+    margin-left: -40px;
+    border-radius: 15px;
+} */
+/* button{
+    padding: 10px;
+    background-color: violet;
+    color: whitesmoke;
+    border-radius: 10px;
+    font-size: 19px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 10px;
+  }
+  
+  input{
+    padding: 10px;
+    color: whitesmoke;
+    background-color: deepskyblue;
+    border-radius: 10px;
+    margin-left: 2%;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  body{
+    background-image: url(./Assets/Hydrangeas.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+  }
+  
+  .ourApp{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bolder;
+    font-size: larger;
+  }
+  
+  .form{
+    background-color: black;
+    color: black;
+    display: inline-block;
+    margin-top: 100px;
+    border-radius: 20px;
+  } */

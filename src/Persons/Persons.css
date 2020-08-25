@@ -1,0 +1,26 @@
+input{
+    box-shadow: inset 5px 0 5px 0 black;
+    text-align: center;
+    background-color: red;
+    
+    
+  }
+body{
+    text-align: center;
+}
+.button{
+     background-color: green;
+     color: white;
+     border-style: none;
+     padding: 10px;
+     margin: 10px;
+     border-radius: 5px;
+}
+.button02{
+    background-color: red;
+    color:black ;
+    border-style: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
